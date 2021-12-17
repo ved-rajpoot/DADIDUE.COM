@@ -17,6 +17,7 @@ To get started as a freelancer with Upwork, begin by creating a profile. Ensure 
 # Technologies used
 1. Django
 2. Bootstrap
+3. Mysql
 
 # Resources
 for demo of this website watch https://youtu.be/cNea1H-bmSQ
